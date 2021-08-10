@@ -15,13 +15,13 @@
 
 This project was put together using create-react-app (CRA). You will not need to install CRA in order to make this project work. Follow the steps below to setup the project with the proper dependencies.
 
-- [ ]  Create a forked copy of this project.
-- [ ]  Clone your OWN version of the repository in your terminal
-- [ ]  CD into the project base directory `cd React-Components-Insta-Clone`
-- [ ]  Download project dependencies by running `npm install`
-- [ ]  Start up the app using `npm start`
-- [ ]  Create a new branch: git checkout -b `<firstName-lastName>`. Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ]  Push commits: git push origin `<firstName-lastName>`.
+- [1]  Create a forked copy of this project.
+- [1]  Clone your OWN version of the repository in your terminal
+- [1]  CD into the project base directory `cd React-Components-Insta-Clone`
+- [1]  Download project dependencies by running `npm install`
+- [1]  Start up the app using `npm start`
+- [1]  Create a new branch: git checkout -b `<firstName-lastName>`. Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [1]  Push commits: git push origin `<firstName-lastName>`.
 
 ### Task 2a: MVP
 
@@ -43,4 +43,4 @@ Your project should end up looking like [this](https://tk-assets.lambdaschool.co
 
 ## Submission Format
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
+- [1] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
