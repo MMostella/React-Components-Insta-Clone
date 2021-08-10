@@ -1,3 +1,4 @@
+
 # React-Components-Insta-Clone
 
 ## Composing React Components and Passing Data Via Props
@@ -14,21 +15,21 @@
 
 This project was put together using create-react-app (CRA). You will not need to install CRA in order to make this project work. Follow the steps below to setup the project with the proper dependencies.
 
-- [ ]  Create a forked copy of this project.
-- [ ]  Clone your OWN version of the repository in your terminal
-- [ ]  CD into the project base directory `cd React-Components-Insta-Clone`
-- [ ]  Download project dependencies by running `npm install`
-- [ ]  Start up the app using `npm start`
-- [ ]  Create a new branch: git checkout -b `<firstName-lastName>`. Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ]  Push commits: git push origin `<firstName-lastName>`.
+- [1]  Create a forked copy of this project.
+- [1]  Clone your OWN version of the repository in your terminal
+- [1]  CD into the project base directory `cd React-Components-Insta-Clone`
+- [1]  Download project dependencies by running `npm install`
+- [1]  Start up the app using `npm start`
+- [1]  Create a new branch: git checkout -b `<firstName-lastName>`. Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [1]  Push commits: git push origin `<firstName-lastName>`.
 
 ### Task 2a: MVP
 
-- [ ]  This app can be broken down to two main sections that you'll need to implement for this project: the Search Bar and the Posts.
-- [ ]  To complete this project there will be a single instance of the Search Bar being rendered at the top of the page, as well as a Posts component that renders an individual Post for every object inside the `dummy-data.js` array.
-- [ ]  Use what you learned yesterday to set up state to keep track of the posts.
-- [ ]  You will implement a callback to increase the "likes count" on posts, and hand it through props several levels down into a nested component.
-- [ ]  Look through the code before you start. There are a lot of files. Not all of them need code added to them. Start in the App.js file and read the instructions there.
+- [1]  This app can be broken down to two main sections that you'll need to implement for this project: the Search Bar and the Posts.
+- [1]  To complete this project there will be a single instance of the Search Bar being rendered at the top of the page, as well as a Posts component that renders an individual Post for every object inside the `dummy-data.js` array.
+- [1]  Use what you learned yesterday to set up state to keep track of the posts.
+- [1]  You will implement a callback to increase the "likes count" on posts, and hand it through props several levels down into a nested component.
+- [1]  Look through the code before you start. There are a lot of files. Not all of them need code added to them. Start in the App.js file and read the instructions there.
 
 ---
 
@@ -42,4 +43,4 @@ Your project should end up looking like [this](https://tk-assets.lambdaschool.co
 
 ## Submission Format
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
+- [1] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
